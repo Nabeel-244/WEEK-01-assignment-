@@ -1,2 +1,2 @@
 # WEEK-01-assignment-
-spash website
+after not coding in a while i have started this assigment with a struggle , there were many errors and there was points where nothing made sense or working. i had to google some of it to get my head around it and see examples on how the code is layed out. i started first by doing the basics then adding the more complicated stuff later on like pictures , links and text. i used MDN and W3S to help me get a better understanding of the assigment. overall i belive i have done my best with this assigment and i am proud of what i have done so far, hopefull in future i could achive better and show a better result. 
